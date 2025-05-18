@@ -1,0 +1,6 @@
+{
+  "admin": {
+    "senha": "admin123",
+    "perfil": "admin",
+    "primeiro_login": false
+  }}
